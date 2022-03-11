@@ -1,4 +1,6 @@
 # environment
+data/
+fcgr*/
 fcgr-cnn/
 
 # Byte-compiled / optimized / DLL files
